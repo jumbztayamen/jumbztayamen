@@ -18,7 +18,7 @@ Alongside that, I’m actively building **AI/ML systems** that sit on top of sol
 
 ### **☁️ Cloud & Infrastructure**
 <p>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="28" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" alt="GCP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="28" alt="Kubernetes"/>
@@ -43,12 +43,23 @@ Incident response · Operational dashboards · SLO-driven reliability
 
 ---
 
-### **🤖 AI / ML (Applied)**
+### **🤖 AI / ML (Applied & NextGen)**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/langchain" height="26" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/weaviate" height="26" alt="Vector DB"/>
+  <img src="https://cdn.simpleicons.org/duckdb" height="26" alt="DuckDB"/>
+  <img src="https://cdn.simpleicons.org/apachespark" height="26" alt="Spark"/>
+</p>
+
+Vector search & embeddings ·  
+Operational RAG pipelines ·  
+Lightweight analytics engines ·  
+AI-backed decision support (non–black box)
+
 </p>
 
 Anomaly detection · Risk scoring · Forecasting ·  
@@ -79,6 +90,21 @@ IAM · Audit logging · Security-by-design ·
 Compliance readiness · DR / BCP · Operational risk management
 
 ---
+### **🧪 Modern Platforms & Experimental Systems**
+<p>
+  <img src="https://cdn.simpleicons.org/opentelemetry" height="26" alt="OpenTelemetry"/>
+  <img src="https://cdn.simpleicons.org/cilium" height="26" alt="eBPF / Cilium"/>
+  <img src="https://cdn.simpleicons.org/pulumi" height="26" alt="Pulumi"/>
+  <img src="https://cdn.simpleicons.org/ray" height="26" alt="Ray"/>
+  <img src="https://cdn.simpleicons.org/apachekafka" height="26" alt="Kafka"/>
+  <img src="https://cdn.simpleicons.org/natsdotio" height="26" alt="NATS"/>
+  <img src="https://cdn.simpleicons.org/wasmer" height="26" alt="WebAssembly"/>
+  <img src="https://cdn.simpleicons.org/temporal" height="26" alt="Temporal"/>
+</p>
+
+OpenTelemetry pipelines · eBPF-based visibility ·  
+Infrastructure as Code (Pulumi) · Distributed compute ·  
+Event-driven systems · Control-plane experimentation
 
 ### **🧪 Open-Source & Tooling (Hands-On Exposure)**
 Prometheus · Grafana · OpenTelemetry · Loki ·  
