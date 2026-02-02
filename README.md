@@ -1,8 +1,5 @@
 <!-- Profile README for jumbztayamen -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/jumbztayamen?v=4" width="120" alt="Jumbz Tayamen" style="border-radius:50%">
-</p>
 
 <h1 align="center">Hi, I’m Jumbz</h1>
 <p align="center">
