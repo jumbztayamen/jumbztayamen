@@ -18,11 +18,12 @@ Alongside that, I’m actively building **AI/ML systems** that sit on top of sol
 
 ### **☁️ Cloud & Infrastructure**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="28" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" alt="GCP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="28" alt="Kubernetes"/>
 </p>
+
 
 Cloud architecture · Hybrid environments · Infrastructure as Code (IaC) ·  
 High availability & failover · Platform tiering · Containerized workloads
