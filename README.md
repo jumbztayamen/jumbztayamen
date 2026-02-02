@@ -14,31 +14,76 @@ Alongside that, I’m actively building **AI/ML systems** that sit on top of sol
 
 ---
 
-## 🛠️ Technology Stack (By Practice Area)
-☁️ Cloud & Infrastructure
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="36" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes"/> </p>
+## 🛠️ **Technology Stack (By Practice Area)**
 
-<span>Cloud architecture</span> · <span>Hybrid environments</span> · <span>IaC</span> · <span>High availability</span> · <span>Platform tiering</span>
+### **☁️ Cloud & Infrastructure**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="28" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="28" alt="Kubernetes"/>
+</p>
 
-📊 Observability & Operations
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="36" alt="Prometheus"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="36" alt="Grafana"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="36" alt="Elastic"/> </p>
+Cloud architecture · Hybrid environments · Infrastructure as Code (IaC) ·  
+High availability & failover · Platform tiering · Containerized workloads
 
-<span>Monitoring & alerting</span> · <span>MTTR / MTTD</span> · <span>SLA & KPI design</span> · <span>Incident response</span> · <span>Operational dashboards</span>
+---
 
-🤖 AI / ML (Applied)
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/> </p>
+### **📊 Observability & Operations**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="28" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="28" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="28" alt="Elastic"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" height="28" alt="Datadog"/>
+</p>
 
-<span>Anomaly detection</span> · <span>Risk scoring</span> · <span>Forecasting</span> · <span>Decision-support models</span> · <span>Operational ML</span>
+Monitoring & alerting · MTTR / MTTD · SLA & KPI design ·  
+Incident response · Operational dashboards · SLO-driven reliability
 
-🧩 Development & Platforms
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/> </p>
+---
 
-<span>API-first design</span> · <span>Internal tools</span> · <span>Automation</span> · <span>CI/CD</span> · <span>Operational dashboards</span>
+### **🤖 AI / ML (Applied)**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/>
+</p>
 
-🔐 Cybersecurity & Governance
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx"/> </p>
+Anomaly detection · Risk scoring · Forecasting ·  
+Decision-support models · Operational ML · AI for ops & governance
 
-<span>IAM</span> · <span>Audit logging</span> · <span>Security-by-design</span> · <span>Compliance readiness</span> · <span>DR / BCP</span>
+---
+
+### **🧩 Development & Platforms**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/>
+</p>
+
+API-first design · Internal tools · Automation · CI/CD ·  
+Operational dashboards · Platform services
+
+---
+
+### **🔐 Cybersecurity & Governance**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="28" alt="Nginx"/>
+</p>
+
+IAM · Audit logging · Security-by-design ·  
+Compliance readiness · DR / BCP · Operational risk management
+
+---
+
+### **🧪 Open-Source & Tooling (Hands-On Exposure)**
+Prometheus · Grafana · OpenTelemetry · Loki ·  
+Kubernetes ecosystem tools · Container runtimes ·  
+Python data & automation libraries · Linux-based tooling
+
 ---
 
 ## What I work on
