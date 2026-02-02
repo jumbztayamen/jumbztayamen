@@ -103,6 +103,6 @@ If you’ve run production systems before, the patterns should feel familiar.
 If something here is useful, feel free to explore or reach out.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jumbztayamen"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/jumbz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="mailto:jumbz@outlook.ph"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
